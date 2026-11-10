@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project
+warehouse/
+*.duckdb
+*.duckdb.wal
+data/generated/
